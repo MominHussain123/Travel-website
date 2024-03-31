@@ -467,7 +467,7 @@ header label{
 }
 .contact .row .contact-info .box h3 i{
   color:var(--light-green) ;
-margin-right: 0.6rem;
+  margin-right: 0.6rem;
  
 }
 
@@ -750,7 +750,7 @@ margin-right: 0.6rem;
      width: 100%;
      margin: 3rem 0;
    }
-   
+
    .contact .row .contact-info .box{
     width: 100%;
   
