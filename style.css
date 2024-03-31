@@ -9,7 +9,7 @@
     text-transform: none;
     border: none;
     outline: none;
-    font-family:'Kalam',cursive;
+    font-family:'poppins',cursive;
     text-transform: capitalize;
 }
 
@@ -742,6 +742,9 @@ header label{
 
     .home .form-container{
         width: 100%;
+    }
+    .home .content h1{
+        font-size: 3.5rem;
     }
    .home .form-container form{
      width: 100%;
