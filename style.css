@@ -466,6 +466,7 @@ header label{
 }
 .contact .row .contact-info .box h3 i{
   color:var(--light-green) ;
+  margin-right: 1rem;
 }
 
 .contact .row .contact-info .box p{
