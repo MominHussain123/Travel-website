@@ -750,6 +750,12 @@ margin-right: 0.6rem;
      width: 100%;
      margin: 3rem 0;
    }
+   
+   .contact .row .contact-info .box{
+    width: 100%;
+  
+
+   }
    .newsletter h1{
     font-size: 3.5rem;
    }
